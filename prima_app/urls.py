@@ -7,5 +7,4 @@ urlpatterns = [
     path('chisiamo/', chisiamo, name='chisiamo'),
     path('variabili/', variabili, name='variabili'),
     path('index/', index, name='index'),
-    
 ]
